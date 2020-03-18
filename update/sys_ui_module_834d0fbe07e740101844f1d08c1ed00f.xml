@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module">
     <sys_ui_module action="INSERT_OR_UPDATE">
         <active>true</active>
-        <application display_value="al test">e16bb8b34f784010f0f889dba310c7ac</application>
+        <application display_value="">e16bb8b34f784010f0f889dba310c7ac</application>
         <filter/>
         <name>AL Tests</name>
         <order/>
