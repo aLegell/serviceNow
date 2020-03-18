@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="al test">216bb8b34f784010f0f889dba310c7a5</application>
+        <assessment/>
+        <content_page/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>AL Tests</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_202735_al_test_al_test</name>
+        <order/>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles>x_202735_al_test.al_test_user</roles>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-18 14:38:27</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>874d0fbe07e740101844f1d08c1ed00b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>AL Tests</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="AL Test" source="x_202735_al_test">d1eaba44079f40101844f1d08c1ed042</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="AL Test">d1eaba44079f40101844f1d08c1ed042</sys_scope>
+        <sys_update_name>sys_app_module_874d0fbe07e740101844f1d08c1ed00b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-18 14:38:27</sys_updated_on>
+        <timeline_page/>
+        <title>AL Tests</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+</record_update>
